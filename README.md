@@ -4,4 +4,8 @@ Simple example of Python Flask web app and console app interacting with Azure AD
 
 ## Landing Page
 
-* See [landing_page](./landing_page/README.md) folder
+* See [landing_page](./landing_page/) folder
+
+## Metered Billing Console App
+
+* TBD
