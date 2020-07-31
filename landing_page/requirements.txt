@@ -1,0 +1,4 @@
+Flask>=1,<2
+flask-session>=0.3
+requests>=2,<3
+msal>=1.4.3,<2
